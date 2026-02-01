@@ -10,6 +10,11 @@
   "license": "CC-BY-SA",
   "language": "de",
   "basePath": "/workbook/",
+  "search": true,
+  "qrcode": true,
+  "colors": {
+    "brand": "#67209e"
+  },
   "links": [
     {
       "label": "Contact",
