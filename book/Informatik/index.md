@@ -1,5 +1,5 @@
 ---
-name: Mathematik
+name: Düdelü
 description: Eine tolle Seite, die viele Information enthält
 keyword:
   - Information
