@@ -9,7 +9,7 @@
   },
   "license": "CC-BY-SA",
   "language": "de",
-  "basePath": "/workbook/",
+  "basePath": "/",
   "search": true,
   "qrcode": true,
   "colors": {
